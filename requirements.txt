@@ -1,0 +1,12 @@
+
+# PyTorch >= 1.10 and PyTorch Geometric >= 2.0.
+
+torch>=1.10
+torch-geometric>=2.0
+torch-scatter
+lark
+numpy
+pandas
+networkx
+matplotlib
+tqdm
