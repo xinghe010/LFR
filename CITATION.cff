@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper and this repository."
+title: "Neuro-symbolic premise selection with logic-augmented term-walk graph neural networks"
+abstract: "Code and data for TW-GNN-LFR, a neuro-symbolic premise selector that combines connective-conditioned term-walk encoding with rare-symbol triggering and continuous symbolic coverage."
+authors:
+  - family-names: "He"
+    given-names: "Xingxing"
+    affiliation: "School of Mathematics, Southwest Jiaotong University, Chengdu, China"
+  - family-names: "Zhao"
+    given-names: "Zhongxu"
+    affiliation: "School of Mathematics, Southwest Jiaotong University, Chengdu, China"
+  - family-names: "Wang"
+    given-names: "Chenglong"
+    affiliation: "School of Mathematics, Southwest Jiaotong University, Chengdu, China"
+  - family-names: "Li"
+    given-names: "Yingfang"
+    affiliation: "School of Computing and Artificial Intelligence, Southwestern University of Finance and Economics, Chengdu, China"
+  - family-names: "Wang"
+    given-names: "Zijian"
+    affiliation: "Omni-media Technology and Communication Cognition Key Laboratory of Sichuan Province, Chengdu, China"
+  - family-names: "Liu"
+    given-names: "Jun"
+    affiliation: "School of Computing, Ulster University, Belfast, UK"
+year: 2026
+version: "1.0.0"
+license: MIT
+url: "https://github.com/xinghe010/LFR"
+repository-code: "https://github.com/xinghe010/LFR"
+keywords:
+  - premise selection
+  - automated theorem proving
+  - graph neural networks
+  - neuro-symbolic learning
+  - logical connective enhancement
+  - symbolic relevance

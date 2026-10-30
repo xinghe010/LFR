@@ -1,0 +1,9 @@
+torch==2.4.1
+torch-geometric==2.6.0
+torch-scatter==2.1.2
+lark>=1.1.5,<2
+numpy>=1.26,<2
+pandas>=2.0,<3
+networkx>=3.0,<4
+matplotlib>=3.8,<4
+tqdm>=4.66,<5
